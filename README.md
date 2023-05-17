@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/cmshaki">Cris Shaki<a><img src="https://github.com/cmshaki/cmshaki/blob/main/images/wave.gif?raw=true" width="60px"/></h1>
-<Br>
+<br>
 <h1>About Me! 😎</h1>
 
 - 🔭 I’m currently working on [Photo Gallery Android App](https://www.github.com/cmshaki/PhotoGallery)
@@ -45,6 +45,27 @@
 --> [Twitter Page Clone](https://peaceful-einstein-c25fec.netlify.app/)
 <br/><br/>
 
+<hr/>
+<br/>
+<h1>Certifications! 🏆</h1>
+<br>
+
+<a href="https://github.com/cmshaki/cmshaki/blob/main/certifications/python-cert.jpg?raw=true">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<a/>
+<a href="https://github.com/cmshaki/cmshaki/blob/main/certifications/java-cert.jpg?raw=true">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<a/>
+<a href="https://github.com/cmshaki/cmshaki/blob/main/certifications/php-cert.jpg?raw=true">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<a/>
+<a href="https://github.com/cmshaki/cmshaki/blob/main/certifications/c++-cert.jpg?raw=true">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<a/>
+<a href="https://github.com/cmshaki/cmshaki/blob/main/certifications/ruby-cert.jpg?raw=true">
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+<a/>
+  
 <hr/>
 <br/>
 
