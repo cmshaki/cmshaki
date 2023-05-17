@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/cmshaki">Cris Shaki<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/cmshaki">Cris Shaki<a><img src="https://github.com/cmshaki/cmshaki/blob/main/images/wave.gif?raw=true" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
@@ -12,7 +12,7 @@
 <hr/>
 <br/>
 
-<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px> </picture> IDEs
+<picture> <img src = "https://github.com/cmshaki/cmshaki/blob/main/images/IDEs.gif?raw=true" width = 50px> </picture> IDEs
 
 <p>
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" /></a>
